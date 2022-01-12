@@ -12,7 +12,7 @@
 ## General Information
 - It is company who gives bike on rent basis to the people.
 - During Covid pandemic their business is affected and company went in huge loss. 
-- Trying to build a ML model to find out the factor which affects the bike rent , so that after pendamic they could work on those factor and make huge progit.
+- Trying to build a ML model to find out the factor which affects the bike rent , so that after pendamic they could work on those factor and make huge profit.
 - It is a .csv file which has information about bike rent during year 2018 and 2019 throughout every month,season,weather.
 
 
